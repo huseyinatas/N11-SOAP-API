@@ -22,7 +22,7 @@ $saveProduct = $n11->SaveProduct(
             [
                 'image' =>
                     [
-                        'url' => 'http://alyamedya.com/uploads/alya-medya-logo1.png',
+                        'url' => 'https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png',
                         'order' => 1
                     ]
             ],
